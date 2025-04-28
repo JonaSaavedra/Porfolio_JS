@@ -130,6 +130,7 @@
 		.line {
 			position: absolute;
 			left: 10%;
+			height: 100%;
 		}
 		.ed1 {
 			text-align: start;
